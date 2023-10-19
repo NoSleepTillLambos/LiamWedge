@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.appdev360.com%2Fgif-app-development-make-gif-on-android%2F&psig=AOvVaw2eg7zKHhGuDruQk315GXZM&ust=1697817623154000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJj53NK9goIDFQAAAAAdAAAAABAD" width="30%">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
