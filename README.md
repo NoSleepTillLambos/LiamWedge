@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width="30%">
+  <img src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" width="30%">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
