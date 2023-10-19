@@ -9,7 +9,7 @@
 - 🌱 &nbsp; Learning about AI, ML.
 - ✍️ &nbsp; Working as a student and part time bartender.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Tech Stacks</h3>
 
 <p align="center">
 
