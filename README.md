@@ -1,7 +1,7 @@
 <p align="center"> 
   <img src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" width="30%">
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3 float="left"> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Finding ways to improve and write cleaner more readable code.
 - 🎓 &nbsp; Completing my undergraduate degree in Development at the Open Window University, South Africa.
