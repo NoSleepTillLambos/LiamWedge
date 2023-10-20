@@ -1,8 +1,5 @@
 ### <h2> Hi I'm Liam!🙏🏻
-  </br>
-  
-</br></br></br>
-### Here are some ideas to get you started:</br>
+### A little about me:</br>
 - 🔭 I’m currently more into the **Programming**
 - 🌱 I’m currently learning **Open Source Contribution.**
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
