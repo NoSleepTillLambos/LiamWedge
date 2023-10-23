@@ -3,11 +3,9 @@
 - 🔭 I’m currently working with JupyterLab and machine learning models such as Google's **Dialogflow and Dall-E image generation **
 - 🌱 I’m currently learning **Open Source Contribution.**
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
-- 🤔 I’m looking for any help and ideas on **Open Source projects for junior developers to advance their skills**
+- 🤔 Trying to maintain a healthy positive attitude  **(Attitude always beats aptitude)**
 - 💬 Ask me about **Technology, Aviation, Troubleshooting, Psychology, Neuroscience, History, Nature.**
 - ⚡ Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
-
-# <p align="center"> * "Attitude trumps aptitude" * </p>
 
 ### Languages/ Frameworks: </br>
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
