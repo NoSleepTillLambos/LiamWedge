@@ -15,8 +15,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
 
 ### Favorite langauges: </br>
-![Static Badge](https://img.shields.io/badge/Javascript?style=for-the-badge&logo=javascript)
-https://img.shields.io/badge/Javascript-Yellow
+https://img.shields.io/badge/Javascript-Yellow?style=for-the-badge&logo=NodeJs
 
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 ![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
