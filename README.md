@@ -16,6 +16,7 @@
 
 ### Favorite langauges: </br>
 https://img.shields.io/badge/Javascript-Yellow?style=for-the-badge&logo=NodeJs
+https://img.shields.io/badge/Javascript-Yellow?style=for-the-badge&logo=appveyor
 
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 ![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
