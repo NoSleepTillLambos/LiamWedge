@@ -20,11 +20,10 @@
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 ![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
-</br></br></br></br>
 
-
+</br></br>
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <i>Feel free to get into contact with me with one of my socials down below!</i>
 
   <p align="center">
     <a href="https://twitter.com/naimish860" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a>     
