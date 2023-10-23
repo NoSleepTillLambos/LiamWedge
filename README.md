@@ -7,12 +7,7 @@
 - 💬 Ask me about **Technology, Aviation, Troubleshooting, Psychology, Neuroscience, History, Nature.**
 - ⚡ Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
 
-# *I am always keen on collborating and developing on new and excitng ideas*
-
-### Hit this over the terminal or console, to know more about me.
-```
-npx nitish
-```
+# <p align="center"> *I am always keen on collborating and developing on new and excitng ideas* </p>
 
 ### Languages/ Frameworks: </br>
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
