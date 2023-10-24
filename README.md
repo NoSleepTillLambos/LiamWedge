@@ -7,7 +7,7 @@
 - 💬 My interests: **Football, Golf, Web3 technologies, app development !**
 - ⚡ Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
 
-<br/>
+</br>
 Here is a just a few of the cool technologies i have worked with: 
 ### Languages: </br>
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
