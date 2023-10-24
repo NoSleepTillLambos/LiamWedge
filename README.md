@@ -1,13 +1,13 @@
 ### <h2> Hi I'm Liam!🙏🏻
 ### A little about me:</br>
-- 🔭 I’m currently working with JupyterLab and machine learning models such as Google's **Dialogflow and Dall-E image generation **
-- 🌱 I’m currently learning **Open Source Contribution.**
+- 🔭 I’m currently working with JupyterLab and machine learning models such as Google's **Dialogflow ChatBot and a Dall-E text to image generator **
+- 🌱 I’m currently learning **Python with specific focus on machine learning and AI**
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 - 🤔 Trying to maintain a healthy positive attitude  **(Attitude always beats aptitude)**
-- 💬 Ask me about **Technology, Aviation, Troubleshooting, Psychology, Neuroscience, History, Nature.**
+- 💬 My interests: **Football, Golf, Web3 technologies, app development !**
 - ⚡ Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
 
-### What I have worked with: </br>
+### Technologies i have worked with: </br>
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
 ![Markdown](http://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=magenta)
@@ -21,17 +21,10 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-### Some of my favorites: </br>
-![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
-![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
-![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </br></br>
-
 <p align="center">
   <i>Feel free to get into contact with me with one of my socials down below!</i>
-
   <p align="center">
     <a href="https://twitter.com/naimish860" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a>     
     <a href="https://www.linkedin.com/in/anitish/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
