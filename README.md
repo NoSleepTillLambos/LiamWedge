@@ -1,13 +1,13 @@
 ### <h2> Hi I'm Liam!🙏🏻
 ### A little about me:</br>
-- 🔭 I’m currently working with JupyterLab and machine learning models such as Google's **Dialogflow ChatBot and a Dall-E text to image generator **
+- 🔭 I’m currently working with JupyterLab and machine learning models such as Google's **Dialogflow ChatBot and a Dall-E sketch to image generator**
 - 🌱 I’m currently learning **Python with specific focus on machine learning and AI**
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 - 🤔 Trying to maintain a healthy positive attitude  **(Attitude always beats aptitude)**
 - 💬 My interests: **Football, Golf, Web3 technologies, app development !**
 - ⚡ Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
 
-### Technologies i have worked with: </br>
+### Tech/ frameworks i have worked with: </br>
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
 ![Markdown](http://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=magenta)
