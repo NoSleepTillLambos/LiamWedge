@@ -1,3 +1,4 @@
+<img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 ### <h2> Hi I'm Liam!🙏🏻 [![](https://visitcount.itsvg.in/api?id=NoSleepTillLambos&icon=0&color=0)](https://visitcount.itsvg.in)
 ### A little about me:</br>
 - 🔭 I’m currently working with JupyterLab and machine learning models such as Google's **Dialogflow ChatBot and a Dall-E sketch to image generator**
