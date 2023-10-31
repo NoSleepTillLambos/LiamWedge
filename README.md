@@ -1,4 +1,4 @@
-<img src="Liam Wedge.png"></img>
+<img src="Liam Wedge.gif"></img>
 </br>
 </br>
  **A little about me:**</br>
