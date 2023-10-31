@@ -1,6 +1,7 @@
 <img src="Liam Wedge.png"></img>
 </br>
- ***A little about me:***</br>
+</br>
+ **A little about me:**</br>
 - 🔭 I’m currently working with JupyterLab and machine learning models such as Google's **Dialogflow ChatBot and a Dall-E sketch to image generator**
 - 🌱 I’m currently learning **Python with specific focus on machine learning and AI**
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
