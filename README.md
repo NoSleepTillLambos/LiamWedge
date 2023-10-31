@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=NoSleepTillLambos&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="Liam Wedge.png"/>
 ### A little about me:</br>
 - 🔭 I’m currently working with JupyterLab and machine learning models such as Google's **Dialogflow ChatBot and a Dall-E sketch to image generator**
 - 🌱 I’m currently learning **Python with specific focus on machine learning and AI**
