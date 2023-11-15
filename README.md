@@ -27,6 +27,8 @@
 
 </br></br>
   <i>Feel free to get into contact with me with one of my socials down below!</i>
+
+  </br>  </br>
   **Instagram** - Liamm_wedge
   **Email** - Liamwedge00@gmail.com
 
