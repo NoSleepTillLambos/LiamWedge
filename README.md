@@ -12,7 +12,7 @@
 - 💬 My interests: **Football, Golf, Web3 technologies, app development !**
 - ⚡ Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
 
-![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoSleepTillLambos&show_icons=true&theme=radical)
+![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoSleepTillLambos&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoSleepTillLambos&layout=donut)](https://github.com/NoSleepTillLambos)
 
 ### Frameworks & Libraries: </br>
