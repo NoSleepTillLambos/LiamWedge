@@ -2,12 +2,17 @@
 </br>
 </br>
  **A little about me:**</br>
+ Hi!, my name is Liam Wedge, I am 22 year old student currently pursuing a Bachelors degeree in Interactive Development from <a src="https://www.openwindow.co.za/">**Open Window**</a> **with a focus on technologies and stacks such as MERN, MEAN and a bunch of other app related environments**
+ </br>
+ </br>
 - 🔭 I’m currently working with JupyterLab and machine learning models such as Google's **Dialogflow ChatBot and a Dall-E sketch to image generator**
 - 🌱 I’m currently learning **Python with specific focus on machine learning and AI and elaborating on my Firebase knowledge**
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 - 🤔 Trying to maintain a healthy positive attitude  **(Attitude always beats aptitude)**
 - 💬 My interests: **Football, Golf, Web3 technologies, app development !**
 - ⚡ Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
+
+- https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?NoSleepTillLambos={NoSleepTillLambos}
 
 ### Frameworks & Libraries: </br>
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
