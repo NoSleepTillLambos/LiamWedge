@@ -15,6 +15,7 @@
 ![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoSleepTillLambos&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoSleepTillLambos&layout=donut)](https://github.com/NoSleepTillLambos)
 
+![](https://komarev.com/ghpvc/?username=NoSleepTillLambos&color=green)
 ### Frameworks & Libraries: </br>
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
